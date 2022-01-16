@@ -1,0 +1,2 @@
+# ranger
+Ranger configuration files

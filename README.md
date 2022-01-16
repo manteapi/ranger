@@ -1,2 +1,2 @@
-# ranger
-Ranger configuration files
+# i3
+i3 configuration
